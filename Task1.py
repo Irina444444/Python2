@@ -1,12 +1,12 @@
-from re import I
+# from re import I
 
 
-print('Insert n to see !n')
-n = int(input())
+# print('Insert n to see !n')
+# n = int(input())
 
-f = 1
+# f = 1
 
-for i in range(1, n+1):
-    f = f * i
+# for i in range(1, n+1):
+#     f = f * i
 
-    print(f)
+#     print(f)
