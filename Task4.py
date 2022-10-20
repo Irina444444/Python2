@@ -1,6 +1,6 @@
 n = int(input())
 num = []
-for x in range (1,n):
+for x in range (1,n+1):
     num.append(x)
 print (num)
 
